@@ -1,0 +1,4 @@
+flask
+passlib
+apscheduler
+google-generativeai
