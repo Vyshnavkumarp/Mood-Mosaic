@@ -139,4 +139,4 @@ Common Issues:
 ---
 
 **Happy Mood Tracking!** 🌟  
-*Remember: Every mood matters in your mosaic of emotions.*![Screenshot 2025-01-30 111421](https://github.com/user-attachments/assets/59e7fb8c-dc88-42ec-aa0e-14e55824c7c4)
+*Remember: Every mood matters in your mosaic of emotions.*
